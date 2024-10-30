@@ -1,0 +1,8 @@
+# Ignore build files
+build/
+*.o
+*.out
+
+# Ignore Docker images and container data
+docker_data/
+
