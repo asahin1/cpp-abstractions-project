@@ -20,5 +20,5 @@ jobs:
 
       - name: Run Executables
         run: |
-          docker run cpp-project ./exercises/ch1/p1/ch1_p1
+          docker run cpp-project ./build/exercises/ch1/p1/ch1_p1
 
