@@ -6,3 +6,6 @@ build/
 # Ignore Docker images and container data
 docker_data/
 
+# vscode
+.vscode/
+
